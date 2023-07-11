@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1689026783 source:c:\users\victor\desktop\codigos\pf modesto led na mao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"container.h"
+
+1689026442 source:c:\users\victor\desktop\codigos\pf modesto led na mao\container.c
+	"container.h"
+	<stdio.h>
+	<stdlib.h>
+
+1689026398 c:\users\victor\desktop\codigos\pf modesto led na mao\container.h
+
